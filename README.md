@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mer</h1>
 
-<h3 align="center">🚧 Developer in Progress — Always Coding, Always Learning, Always Leveling Up 🚧</h3>
+
 
 ---
 
