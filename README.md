@@ -15,7 +15,7 @@
 ## 💫 About Me
 I am Merjie P. Makilan, an IT student and aspiring Full-Stack Software Developer focused on building practical, database-driven, and efficient applications.
 
-I have experience developing desktop systems, web applications, and backend-integrated projects. I enjoy creating clean, functional, and user-friendly systems with strong database integration and well-structured system design.
+I have experience developing desktop systems, web applications, and backend-integrated projects, with a strong focus on creating clean, functional, and user-friendly systems. I value good database design and well-structured system architecture to ensure efficiency and scalability.
 ---
 
 ##  Current Focus
@@ -94,8 +94,8 @@ I have experience developing desktop systems, web applications, and backend-inte
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merlogic&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlogic&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=merlogic&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlogic&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
 
 ---
