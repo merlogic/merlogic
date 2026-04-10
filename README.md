@@ -83,20 +83,13 @@ I have experience developing desktop systems, web applications, and backend-inte
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-|  AES File Encryption Tool | C# • Cryptography | Secure file encryption system using AES algorithm |
+|  AES File Encryption Tool | Python • Cryptography |Secure file encryption system using the AES algorithm
 |  Instagram Clone | Flutter • Dart • Supabase | Social media mobile UI with authentication system |
 |  Slytherix Quiz System | Java • MySQL | Educational quiz system with database integration |
 |  Audionyx UI | Flutter • Glassmorphism | Modern UI/UX mobile design system |
 |  Coffee Shop System | React • Tailwind CSS | Responsive e-commerce frontend design |
 |  NFC Gym System | C# • SQL Server | Gym management system with NFC tracking |
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merlogic&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlogic&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
-</p>
 
 ---
 
