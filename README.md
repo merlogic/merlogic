@@ -83,12 +83,12 @@ I have experience developing desktop systems, web applications, and backend-inte
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-|  AES File Encryption Tool | Python • Cryptography |Secure file encryption system using the AES algorithm
+|  AES File Encryption Tool | Python  |Secure file encryption system using the AES algorithm
 |  Instagram Clone | Flutter • Dart • Supabase | Social media mobile UI with authentication system |
-|  Slytherix Quiz System | Java • MySQL | Educational quiz system with database integration |
-|  Audionyx UI | Flutter • Glassmorphism | Modern UI/UX mobile design system |
-|  Coffee Shop System | React • Tailwind CSS | Responsive e-commerce frontend design |
-|  NFC Gym System | C# • SQL Server | Gym management system with NFC tracking |
+|  Slytherix Quiz System | Flutter • Dart • MySQL | Educational quiz system with database integration |
+|  Audionyx UI | Flutter  | Modern UI/UX mobile design system |
+|  Coffee Shop System | HTML • CSS | Responsive e-commerce frontend design |
+|  NFC Gym System | Visual Basic .NET • PHP • CSS • JavaScript | Gym management system with NFC tracking |
 
 
 ---
